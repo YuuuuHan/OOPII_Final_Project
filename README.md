@@ -11,6 +11,5 @@ Using **Java language** to build GUI interface, and determine the movement strat
 Use **X2go** and run the project according to the following instructions:
 ```
 1. javac A1073317_checkpoint7_DemoGame.java
-2. java A1073317_checkpoint7_DemoGame map_id jfScaler milliseconds algorithm
-   (e.g. java A1073317_checkpoint7_DemoGame 0 4 20 1)
+2. java A1073317_checkpoint7_DemoGame map_id jfScaler milliseconds algorithm (e.g. java A1073317_checkpoint7_DemoGame 0 4 20 1)
 ```
