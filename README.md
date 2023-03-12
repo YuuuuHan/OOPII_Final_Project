@@ -1,5 +1,5 @@
 # OOPII_Final_Project
-Using **Java language** to build GUI interface, and determine the movement strategy of the object through **different command and various algorithms**, including DFS, BFS and UCS, and the object can not collide with any obstacles in the process of movement.
+Using **Java language** to build GUI interface, and determine the movement strategy of the object through **different command** and **various algorithms**, including **DFS, BFS and UCS**, and the object can not collide with any obstacles in the process of movement.
 ## Illustrate
 - **Map_id**:  Depending on the map_id, the displayed map style will be different.
 - **JfScaler**: Use to set the map zoom size.
